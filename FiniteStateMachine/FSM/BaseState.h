@@ -1,8 +1,10 @@
 ﻿#pragma once
+#include <string>
 
 class BaseState {
 protected:
     BaseState() = default;
+    
     ~BaseState() = default;
 public:
 
